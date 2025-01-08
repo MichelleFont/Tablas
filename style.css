@@ -1,0 +1,43 @@
+.tabla {
+    border: 1px solid red;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+}
+
+.tabla span {
+    display: block;
+    line-height: 1.5em;
+}
+
+.tabla {
+    border: 2px solid red;
+    display: inline-block;
+    padding: 3px;
+}
+
+.highlight {
+    border: 2px solid blue;
+    padding: 1;
+}
+
+table {
+    border-spacing: 10px;
+    width: 100%;
+}
+
+td {
+    
+    text-align: center;
+    padding: 5px;
+    border: green 2px double;
+}
+
+.rowspan-2 {
+    height: 100px;
+}
+
+.colspan-2 {
+    width: 200px;
+}
+
